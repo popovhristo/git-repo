@@ -1,2 +1,3 @@
 Added new file in git bash console.
 Added new line in Explorer.
+Added new line in git bash.
